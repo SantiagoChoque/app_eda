@@ -50,6 +50,21 @@ Este proyecto consiste en una plataforma interactiva de **Análisis Exploratorio
 
 * **Hallazgos Clave:** Dashboard con métricas de impacto (KPIs) y análisis de Churn por tipo de contrato y cargos.
 
+### 📸 Capturas de la aplicación:
+* **Módulo de carga y visualización:**
+<img width="749" height="465" alt="image" src="https://github.com/user-attachments/assets/2d4f39a4-f5b2-4f0a-92dc-17deea363536" />
+<img width="753" height="601" alt="image" src="https://github.com/user-attachments/assets/6a7ecb6e-462b-43f2-89c1-556da1a9dfde" />
+
+* **Opciones del Módulo de Análisis Exploratorio (EDA):**
+<img width="741" height="167" alt="image" src="https://github.com/user-attachments/assets/e3c323e6-ca65-4fc7-af49-7a013b15ee88" />
+<img width="738" height="48" alt="image" src="https://github.com/user-attachments/assets/b7165287-5155-437e-98fd-78aca0a20594" />
+
+* **Estructura del dataset:**
+<img width="738" height="861" alt="image" src="https://github.com/user-attachments/assets/2220aad8-4760-45b4-b5e0-98679aff34d4" />
+
+* **Gráfico Resumen Clave:**
+<img width="724" height="523" alt="image" src="https://github.com/user-attachments/assets/5e264c22-dfce-44dc-953c-ebc93a40e0b8" />
+
 
 ### 🏁 Conclusiones Estratégicas
 * **🚨 Crisis de Fidelidad:** Alta deserción detectada en el primer año de servicio.
