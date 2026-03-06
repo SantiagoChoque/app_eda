@@ -22,12 +22,13 @@ Este proyecto consiste en una plataforma interactiva de **Análisis Exploratorio
 
 ```text
 📦 telco-churn-app
- ┣ 📂 .streamlit         # Configuración de tema y despliegue
+ ┣ 📂 .streamlit               # Configuración de tema y despliegue
  ┃ ┗ 📜 config.toml
- ┣ 📂 img                # Recursos visuales (Logos de Python, Pandas, etc.)
- ┣ 📜 app.py             # Archivo principal de la aplicación
- ┣ 📜 requirements.txt   # Dependencias del proyecto
- ┗ 📜 README.md          # Documentación
+ ┣ 📂 img                      # Recursos visuales (Logos de Python, Pandas, etc.)
+ ┣ 📜 README.md                # Documentación
+ ┣ 📜 TelcoCustomerChrun.csv   # Archivo a subir para el análisis
+ ┣ 📜 app.py                   # Archivo principal de la aplicación
+ ┣ 📜 requirements.txt         # Dependencias necesarias
 ```
 
 ### 📂 Desglose de los Módulos
